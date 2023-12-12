@@ -10989,7 +10989,7 @@ p {
 /* Additional media queries for larger screens if necessary */
 @media (min-width: 1080px) {
   .cta-inner {
-    max-width: 800px; /* Adjust for larger screens if needed */
+    max-width: auto; /* Adjust for larger screens if needed */
   }
 
   .cta-inner img {
